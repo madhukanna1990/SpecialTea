@@ -1,0 +1,5 @@
+Put water in bowl
+Put milk in bowl
+Put tea powder in bowl
+Boil bowl for 10 min
+SpecialTea gets ready to serve
